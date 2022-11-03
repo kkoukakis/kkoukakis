@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Konstantinos "Kouk" Koukakis</h1>
+<h1 align="center">Hey there 👋,  I'm Konstantinos "Kouk" Koukakis</h1>
 <h3 align="center">A passionate fullstack software engineer</h3>
 
  
