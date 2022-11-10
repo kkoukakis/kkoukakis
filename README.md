@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Konstantinos "Kouk" Koukakis</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 🔭 I’m currently working @ [Atellio](https://atellio.com)
-- 🌱 I’m currently learning **Godot**
+
+ - 🔭 I’m currently working @ [Atellio](https://atellio.com)
+ - 🌱 I’m currently learning **Godot**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkoukakis&label=Profile%20views&color=0cca78&style=flat" alt="kkoukakis" /> </p>
 
 <h3 align="left">Connect with me:</h3>
