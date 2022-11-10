@@ -3,10 +3,10 @@
 
  
 <p align="center"> 
-  - 🔭 Currently working @ **[Atellio](https://atellio.com)**
-  - 🌱 Currently learning **[Godot](https://atellio.com)**
-  - <img src="https://komarev.com/ghpvc/?username=kkoukakis&label=Profile%20views&color=0cca78&style=flat" alt="kkoukakis" />
- </p>
+ - 🔭 Currently working @ **[Atellio](https://atellio.com)**
+ - 🌱 Currently learning **[Godot](https://atellio.com)**
+ - <img src="https://komarev.com/ghpvc/?username=kkoukakis&label=Profile%20views&color=0cca78&style=flat" alt="kkoukakis" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
