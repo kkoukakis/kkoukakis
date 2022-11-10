@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Konstantinos "Kouk" Koukakis</h1>
+<h1 align="center">Hey there 👋, I'm Konstantinos "Kouk" Koukakis</h1>
 <h3 align="center">A passionate fullstack software engineer</h3>
 
  - 🔭 Currently working @ **[Atellio](https://atellio.com)**
  - 🌱 Currently learning **[Godot](https://atellio.com)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkoukakis&label=Profile%20views&color=0cca78&style=flat" alt="kkoukakis" /> </p>
+<p align="left"> 
+ 
+  - 🔭 Currently working @ **[Atellio](https://atellio.com)**
+  - 🌱 Currently learning **[Godot](https://atellio.com)**
+ 
+ <img src="https://komarev.com/ghpvc/?username=kkoukakis&label=Profile%20views&color=0cca78&style=flat" alt="kkoukakis" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
