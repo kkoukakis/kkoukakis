@@ -3,8 +3,8 @@
 
  
 <p align="center"> 
- 🔭 Currently working @ [**Atellio**](https://atellio.com) <br/>
- 🌱 Currently learning [**Godot**](https://atellio.com)
+ 🔭 Currently working @ [Atellio](https://atellio.com) <br/>
+ 🌱 Currently learning [Godot](https://godot.com)
 </p>
 
 <h3 align="center">~~~~~~~~</h3>
