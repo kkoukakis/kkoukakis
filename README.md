@@ -7,7 +7,8 @@
  🌱 Currently learning <a href="https://godot.com" target="blank">Godot</a><br/>
 </p>
 
-<h3 align="center">~~~~~~~~</h3>
+
+<h3 align="center">►►►►►►►►■■■■■■◄◄◄◄◄◄◄◄</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kkoukakis" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=blue&style=for-the-badge&logo=linkedin" alt="kkoukakis"/></a>
   <a href="https://youtube.com/@kkoukakis" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCBadUaR6D4FPbwCp1Q8hXFQ?logo=Youtube&style=for-the-badge" alt="kkoukakis youtube" /></a>
