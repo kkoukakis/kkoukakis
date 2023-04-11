@@ -3,8 +3,7 @@
 
  
 <p align="center"> 
- 🔭 Currently working @ <a href="https://atellio.com" target="blank">Atellio</a><br/>
- 🌱 Currently learning <a href="https://godot.com" target="blank">Godot</a><br/>
+ 🔭 Currently working @ <a href="https://kittl.com" target="blank">Kittl</a><br/> 
 </p>
 
 
