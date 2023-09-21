@@ -3,7 +3,7 @@
 
  
 <p align="center"> 
- 🔭 Currently working @ <a href="https://kittl.com" target="blank">Kittl</a><br/> 
+ 🔭 
 </p>
 
 
