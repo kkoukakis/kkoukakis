@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋,  I'm Konstantinos "Kouk" Koukakis</h1>
-<h3 align="center">A passionate fullstack software engineer</h3>
+<h3 align="center">A passionate and creative software engineer</h3>
 
  
 <p align="center"> 
