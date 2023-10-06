@@ -1,9 +1,9 @@
-<h1 align="center">Hey there 👋,  I'm Konstantinos "Kouk" Koukakis</h1>
+<h1 align="center">Hey there 👋,  I'm Konstantinos Koukakis aka Kouk</h1>
 <h3 align="center">A passionate and creative software engineer</h3>
 
  
 <p align="center"> 
- 🔭 
+🔭 
 </p>
 
 
